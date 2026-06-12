@@ -145,19 +145,19 @@ Motivated Full Stack Developer with hands-on experience in frontend and full-sta
 ![NPTEL](https://img.shields.io/badge/NPTEL-Certified-blue?style=for-the-badge)
 
 ## Microsoft
-![Microsoft](https://img.shields.io/badge/Microsoft-AI%20Skills%20Program-5E5CE6?style=for-the-badge&logo=microsoft)
+![Microsoft]([https://img.shields.io/badge/Microsoft-AI%20Skills%20Program-5E5CE6?style=for-the-badge&logo=microsoft](https://api-fe.skillindiadigital.gov.in/api/registry-course/getCertificatePresignedUrl/2025082391785008-658a7e4d-dadd-4922-8f22-9593b904f690))
 
 ---
 
 # GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=guna-saikumar&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=guna-saikumar&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guna-saikumar&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -165,7 +165,7 @@ Motivated Full Stack Developer with hands-on experience in frontend and full-sta
 # GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=guma-saikumar&theme=tokyonight&no-frame=true"/>
 </p>
 
 ---
@@ -173,7 +173,7 @@ Motivated Full Stack Developer with hands-on experience in frontend and full-sta
 # Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=guna-saikumar&theme=tokyo-night"/>
 </p>
 
 ---
