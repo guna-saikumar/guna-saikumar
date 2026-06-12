@@ -214,10 +214,27 @@ Open_To:
 
 # Connect
 
-- Email: gunavenkatasaikumar@gmail.com
-- LinkedIn: https://www.linkedin.com/in/guna-venkata-sai-kumar
-- GitHub: https://github.com/guna-saikumar
-- Portfolio: https://sai-portfolio-dgy9.onrender.com
+# Connect
+
+<div align="center">
+
+<a href="mailto:gunavenkatasaikumar@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/guna-venkata-sai-kumar">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/guna-saikumar">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://sai-portfolio-dgy9.onrender.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
