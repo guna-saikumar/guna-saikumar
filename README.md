@@ -214,8 +214,6 @@ Open_To:
 
 # Connect
 
-# Connect
-
 <div align="center">
 
 <a href="mailto:gunavenkatasaikumar@gmail.com">
