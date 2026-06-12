@@ -145,8 +145,10 @@ Motivated Full Stack Developer with hands-on experience in frontend and full-sta
 ![NPTEL](https://img.shields.io/badge/NPTEL-Certified-blue?style=for-the-badge)
 
 ## Microsoft
-![Microsoft]([https://img.shields.io/badge/Microsoft-AI%20Skills%20Program-5E5CE6?style=for-the-badge&logo=microsoft](https://api-fe.skillindiadigital.gov.in/api/registry-course/getCertificatePresignedUrl/2025082391785008-658a7e4d-dadd-4922-8f22-9593b904f690)
 
+<a href="https://api-fe.skillindiadigital.gov.in/api/registry-course/getCertificatePresignedUrl/2025082391785008-658a7e4d-dadd-4922-8f22-9593b904f690" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft-AI%20Skills%20Program-5E5CE6?style=for-the-badge&logo=microsoft" />
+</a>
 ---
 
 # GitHub Analytics
@@ -167,6 +169,7 @@ Motivated Full Stack Developer with hands-on experience in frontend and full-sta
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=guna-saikumar&theme=tokyonight&no-frame=true&row=2&column=4"/>
 </p>
+
 ---
 
 # Contribution Activity
