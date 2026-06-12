@@ -45,10 +45,10 @@ Motivated Full Stack Developer with hands-on experience in frontend and full-sta
 # Tech Stack
 
 ## Languages
-<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,python"/></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=js,python"/></p>
 
 ## Frontend
-<p align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap"/></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/></p>
 
 ## Backend & Databases
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres"/></p>
